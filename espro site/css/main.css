@@ -1,0 +1,97 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.menu-principal{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    border-bottom: 3px solid #aaaaaa42;
+}
+
+main{
+    margin: 0 auto;
+    width: 980px;
+    
+
+}
+
+
+.logo-espro{
+    float: left;
+    width: 20%;
+}
+
+
+.redes-sociais ul li {
+    padding-right: 100px;
+    width: 0%;
+    display: inline-block;
+    float: right;
+    
+}
+
+
+.redes-sociais ul li a{
+    
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.575);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.banner{
+    margin-top: 20px;
+}
+
+
+.deps{
+    margin-top: 20px;  
+}
+
+.deps img:hover{
+    margin-top: 5px!important;
+    position: relative;
+}
+
+.img-adm{
+    float: left;
+    width: 5%;
+    margin-right: 152px ;
+}
+.img-rh{
+    float: left;
+    width: 5%;
+    margin-right: 152px 
+}
+.img-comu{
+    float: left;
+    width: 5%;
+    margin-right: 152px 
+}
+.img-des{
+    float: left;
+    width: 5%;
+    margin-right: 152px 
+}
+.img-ev{
+    float: left;
+    width: 5%;
+}
+
+
+.depart{
+    margin-top: 40px;
+}
+
+.departamentos{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.575);
+    font-size: 35px;
+}
